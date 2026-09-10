@@ -1,6 +1,6 @@
 ## AGI!!
 
-[imdumb](https://github.com/iurev/imdumb) -- -- --- the only skill you need in the era of AGI!
+[imdumb](https://github.com/iurev/imdumb) - – — the only skill you need in the era of AGI!
 ```
 /imdumb difference between hyphen, en dash, and em dash.
 ```
