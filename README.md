@@ -1,3 +1,7 @@
+## AGI!!
+[imdumb](https://github.com/iurev/imdumb) <<< Trust me, you need this skill!
+
+
 ## Okay...
 | [bebenqli](https://github.com/iurev/bebenqli) | [C64 Purple Soft](https://github.com/iurev/vscode-theme-c64) | [natare](https://github.com/iurev/natare) | [resguard](https://github.com/iurev/resguard) |
 |:---:|:---:|:---:|:---:|
